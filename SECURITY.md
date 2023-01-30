@@ -10,3 +10,4 @@
 
 ## Reporting a Vulnerability
 Create an issue on GitHub or send me an email on abcd@gmail.com
+Thanks
